@@ -1,3 +1,4 @@
 # rsschool-cv
 
-https://extolqe.github.io/rsschool-cv/cv
+**Markdown** https://extolqe.github.io/rsschool-cv/cv<br>
+**HTML** https://extolqe.github.io/rsschool-cv/
